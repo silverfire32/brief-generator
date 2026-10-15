@@ -1,0 +1,73 @@
+{
+  "title": "handling a billing complaint",
+  "total_minutes": 90,
+  "beats": [
+    {
+      "minute": 0,
+      "label": "Welcome and read the outcome lines aloud",
+      "key_points": [
+        "Welcome and read the outcome lines aloud.",
+        "Name the three steps: listen, restate, offer the next step."
+      ],
+      "whisper_cue": "listen, restate, offer the next step."
+    },
+    {
+      "minute": 10,
+      "label": "Walk Call A together",
+      "key_points": [
+        "Walk Call A together.",
+        "I play the customer.",
+        "Call A late fee"
+      ],
+      "whisper_cue": "slow on the restate."
+    },
+    {
+      "minute": 25,
+      "label": "Pairs on Call B",
+      "key_points": [
+        "Pairs on Call B.",
+        "Switch roles halfway.",
+        "Call B duplicate charge"
+      ],
+      "whisper_cue": "Switch roles halfway."
+    },
+    {
+      "minute": 45,
+      "label": "One pair performs",
+      "key_points": [
+        "One pair performs.",
+        "Group names which step they heard."
+      ],
+      "whisper_cue": "Group names which step they heard."
+    },
+    {
+      "minute": 60,
+      "label": "Write one sentence",
+      "key_points": [
+        "Write one sentence they will say when they cannot approve a refund.",
+        "Share two, no more."
+      ],
+      "whisper_cue": "Share two, no more."
+    },
+    {
+      "minute": 75,
+      "label": "reread the three steps",
+      "key_points": [
+        "Close: reread the three steps.",
+        "Remind them the packet stays at the desk."
+      ],
+      "whisper_cue": "Remind them the packet stays at the desk."
+    }
+  ],
+  "key_phrases": [
+    "listen, restate, offer the next step.",
+    "you cannot approve a refund on this call.",
+    "slow on the restate."
+  ],
+  "do_not": [
+    "you cannot approve a refund on this call.",
+    "Share two, no more.",
+    "Skip the section on chargebacks."
+  ],
+  "notes": "That is week 2."
+}

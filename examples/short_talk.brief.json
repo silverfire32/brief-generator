@@ -1,0 +1,46 @@
+{
+  "title": "Read the room before the slide",
+  "total_minutes": 8,
+  "beats": [
+    {
+      "minute": 0,
+      "label": "Opening line",
+      "key_points": [
+        "Last month I opened on a chart and the front row was still finding seats.",
+        "I now wait until notebooks are open, then say the opening line.",
+        "The slide is not the talk."
+      ],
+      "whisper_cue": "The slide is not the talk."
+    },
+    {
+      "minute": 2,
+      "label": "One story only",
+      "key_points": [
+        "One story only: the chart about onboarding drop-off.",
+        "Don't show the second chart."
+      ],
+      "whisper_cue": "Don't show the second chart."
+    },
+    {
+      "minute": 6,
+      "label": "Then stop",
+      "key_points": [
+        "Close by repeating \"The slide is not the talk.\"",
+        "Then stop. No Q&A."
+      ],
+      "whisper_cue": "Then stop. No Q&A."
+    }
+  ],
+  "key_phrases": [
+    "The slide is not the talk.",
+    "Don't show the second chart.",
+    "No Q&A."
+  ],
+  "do_not": [
+    "Don't show the second chart.",
+    "No Q&A.",
+    "Do not apologize for the time limit.",
+    "Do not add a demo."
+  ],
+  "notes": "8 minutes hard stop."
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Equivalent fractions, grade 4",
+  "total_minutes": 40,
+  "beats": [
+    {
+      "minute": 0,
+      "label": "Settle and show the strip",
+      "key_points": [
+        "students explain why 1/2 = 2/4 = 3/6 using fraction strips.",
+        "Settle and show the strip for 1/2.",
+        "Ask \"what do you notice?\""
+      ],
+      "whisper_cue": "what do you notice?"
+    },
+    {
+      "minute": 8,
+      "label": "Pairs fold strips",
+      "key_points": [
+        "Pairs fold strips to find another fraction equal to 1/2.",
+        "They must write the pair, like 1/2 and 2/4."
+      ],
+      "whisper_cue": "write the pair, like 1/2 and 2/4."
+    },
+    {
+      "minute": 18,
+      "label": "Gallery",
+      "key_points": [
+        "Gallery: three pairs share.",
+        "Record only what they say on the board.",
+        "If time is short, cut the gallery to two shares."
+      ],
+      "whisper_cue": "same amount, different name."
+    },
+    {
+      "minute": 28,
+      "label": "Exit ticket",
+      "key_points": [
+        "Write two fractions equal to 1/2 and say how you know.",
+        "No helping during the ticket."
+      ],
+      "whisper_cue": "No helping during the ticket."
+    },
+    {
+      "minute": 36,
+      "label": "Collect tickets",
+      "key_points": [
+        "Collect tickets.",
+        "Do not give the answer key.",
+        "already presented yesterday, so invite someone else."
+      ],
+      "whisper_cue": "Do not give the answer key."
+    }
+  ],
+  "key_phrases": [
+    "what do you notice?",
+    "same amount, different name.",
+    "Write two fractions equal to 1/2 and say how you know."
+  ],
+  "do_not": [
+    "Don't: skip ahead to decimals.",
+    "Don't call on the same three students.",
+    "No helping during the ticket.",
+    "Do not give the answer key."
+  ],
+  "notes": "Materials: paper strips, one marker, exit slip half-sheet."
+}
